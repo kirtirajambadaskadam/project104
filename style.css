@@ -1,0 +1,24 @@
+body
+  {
+    color:rgb(255, 0, 0);
+    font-weight:900;
+    background-image: url("k.png");
+    background-repeat:round;
+    background-size:cover; 
+    background-color:plum; 
+}
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  #camera 
+  {
+    border: 2px solid black;
+    width: 350px;
+    height: 300px; 
+  }
+  .name_of_objects, #result_object_name  , #result_object_accuracy
+  {
+    color: rgb(255, 251, 0);
+  }
